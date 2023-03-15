@@ -1,9 +1,9 @@
 {
-    "name": "Renamer Bot",
+    "name": "Rename",
     "description": "Telegram File Renamer Bot ",
-    "logo": "https://graph.org/file/8f399efded816e7591823.jpg",
+    "logo": "https://te.legra.ph/file/d35b00a94d176f9690b1d.jpg",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/KIRITOAK4/Rename",
+    "repository": "https://github.com/iSmartboiUjjwal",
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
@@ -31,12 +31,12 @@
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "value": "Opleech",
             "required": false
         },
         "START_PIC": {
             "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
-            "value": "",
+            "value": "https://te.legra.ph/file/d35b00a94d176f9690b1d.jpg",
             "required": false
         }
     },
