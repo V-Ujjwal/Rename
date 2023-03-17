@@ -62,20 +62,20 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/WOODcraft_Mirror_Topic>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/+Z-ZmXh9Xxhc0MWQ1>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
+    DEV_TXT =@Movies_X_Animes """
 <b><u>Special Thanks & Developers</b></u> 
 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://te.legra.ph/file/42e9a66c3df08a9c1987a.mp4>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 » 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://t.me/iSmartBoiUjjwal_ib_bot>Ask Here</a>
 
-• ❣️ <a href=>String Genrator</a>
-• ❣️ <a href=https://t.me/Opleech>Channel</a>
-• ❣️ <a href=https://t.me/TG_Manager_Robot_bot>Manager Bot</a>
-• ❣️ <a href=https://t.me/SED_Link_Bypasser_bot>Bypass Bot</a>
-• ❣️ <a href=https://t.me/WOODcraft_Mirror_Topic>Group</a>
-• ❣️ <a href=></>
+• ❣️ <a href=https://t.me/>Movies Channel</a>
+• ❣️ <a href=https://t.me/MxA_Bots>Bots Channel</a>
+• ❣️ <a href=https://t.me/Movies_X_Animes>Main Channel</a>
+• ❣️ <a href=https://t.me/+Z-ZmXh9Xxhc0MWQ1>Group</a>
+• ❣️ <a href=https://t.me/iSmartBoiUjjwal_ib_bot>Contact</a>
+• ❣️ <a href=https://t.me/iSmartBoi_Ujjwal>Owner</>
 """
