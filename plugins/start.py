@@ -41,8 +41,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/Opleech'),
-        InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/WOODcraft_Mirror_Topic')
+        InlineKeyboardButton('📢𝚄𝙿𝙳𝙰𝚃𝙴𝚂🗯', url='https://t.me/MxA_Bots'),
+        InlineKeyboardButton('🍿𝙼𝙾𝚅𝙸𝙴𝚂🎥', url='𝚑𝚝𝚝𝚙𝚜://𝚝.𝚖𝚎/𝙼𝚘𝚟𝚒𝚎_𝚁𝚎𝚚𝚞𝚎𝚜𝚝𝚝_𝙶𝚛𝚘𝚞𝚙')
         ],[
         InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -83,8 +83,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/Opleech'),
-                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/WOODcraft_Mirror_Topic')
+                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/𝙼𝚡𝙰_𝙱𝚘𝚝𝚜'),
+                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Movie_Requestt_Group')
                 ],[
                 InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -95,10 +95,9 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://te.legra.ph/file/42e9a66c3df08a9c1987a.mp4")
                ],[
-               InlineKeyboardButton("❤️‍🔥 𝙷𝙾𝚆 𝚃𝙾 𝚄𝚂𝙴  ❤️‍🔥", url='tg://settings')
+               InlineKeyboardButton("🖥️ 𝙼𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽", url='𝚑𝚝𝚝𝚙𝚜://𝚝.𝚖𝚎/𝚒𝚂𝚖𝚊𝚛𝚝𝙱𝚘𝚒𝚄𝚓𝚓𝚠𝚊𝚕_𝚒𝚋_𝚋𝚘𝚝')
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -110,7 +109,6 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
-               #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://te.legra.ph/file/42e9a66c3df08a9c1987a.mp4")
                ],[
                InlineKeyboardButton("🖥️ 𝙼𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽", url="https://t.me/iSmartBoiUjjwal_ib_bot")
@@ -127,7 +125,7 @@ async def cb_handler(client, query: CallbackQuery):
                #⚠️ don't change source code & source link ⚠️ #
                InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://te.legra.ph/file/42e9a66c3df08a9c1987a.mp4")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://t.me/iSmartBoiUjjwal_ib_bot")
+               InlineKeyboardButton("🖥️ 𝙼𝙰𝙺𝙴 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽", url="https://t.me/iSmartBoiUjjwal_ib_bot")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
