@@ -36,8 +36,8 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👨‍💻 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/iSmartBoiUjjwal_ib_bot></a> 
-├👑 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/iSmartboi_Ujjwal</a>
+├👨‍💻 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/iSmartBoiUjjwal_ib_bot>meh</a> 
+├👑 𝙾𝚆𝙽𝙴𝚁 : <a href=https://t.me/iSmartboi_Ujjwal>༺Ujjωαℓ༻</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
@@ -62,11 +62,11 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=𝚑𝚝𝚝𝚙𝚜://𝚝.𝚖𝚎/𝚒𝚂𝚖𝚊𝚛𝚝𝙱𝚘𝚒𝚄𝚓𝚓𝚠𝚊𝚕_𝚒𝚋_𝚋𝚘𝚝>𝑺𝑼𝑷𝑷𝑶𝑹𝑻</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/iSmartBoiUjjwal_ib_bot>𝑺𝑼𝑷𝑷𝑶𝑹𝑻</a>
 """
 
 #⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT =@Movies_X_Animes """
+    DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://te.legra.ph/file/42e9a66c3df08a9c1987a.mp4>𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
@@ -75,7 +75,7 @@ Example:- /set_caption 📕 File Name: {filename}
 • ❣️ <a href=https://t.me/>Movies Channel</a>
 • ❣️ <a href=https://t.me/MxA_Bots>Bots Channel</a>
 • ❣️ <a href=https://t.me/Movies_X_Animes>Main Channel</a>
-• ❣️ <a href=https://t.me/Movie_Requestt_Group>G𝙼𝚘𝚟𝚒𝚎 𝚛𝚎𝚚 roup</a>
+• ❣️ <a href=https://t.me/Movie_Requestt_Group>𝙼𝚘𝚟𝚒𝚎 𝚛𝚎𝚚 Group</a>
 • ❣️ <a href=https://t.me/iSmartBoiUjjwal_ib_bot>Contact</a>
 • ❣️ <a href=https://t.me/iSmartBoi_Ujjwal>Owner</>
 """
